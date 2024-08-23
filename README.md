@@ -9,7 +9,7 @@
 
 Клонирование проекта:
 ```shell
-git clone https://github.com/KlimentFis/Rest_API_Block
+git clone https://github.com/KlimentFis/Rest_API_Block.git
 ```
 
 Переход в папку проекта:
